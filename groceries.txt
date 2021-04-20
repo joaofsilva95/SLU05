@@ -1,0 +1,8 @@
+Grocery list:
+- Chocolate
+- Flour
+- Butter
+- Sugar
+- Milk
+- Baking powder
+- Eggs
